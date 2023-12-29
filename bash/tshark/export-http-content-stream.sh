@@ -1,6 +1,6 @@
 #!/bin/bash
 # description: 从pcap文件中提取包含特定字符串的http请求strem
-# tags: tshark, bash, array
+# tags: tshark, wireshark, bash, array
 
 pcap_file=""
 
